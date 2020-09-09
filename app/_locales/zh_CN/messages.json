@@ -172,7 +172,7 @@
 		"message": "如果不慎丢失个人设备，忘记密码，或者需要重新安装 NewMask，或是需在另一台设备上打开钱包，请使用该保密码恢复个人钱包数据。"
 	},
 	"backupApprovalNotice": {
-		"message": "请备份你的保密恢复码，保证你的钱包和资金安全。"
+		"message": "请备份你的账户助记词，保证你的钱包和资金安全。"
 	},
 	"backupNow": {
 		"message": "立即备份"
@@ -254,7 +254,7 @@
 		"message": "确认密码"
 	},
 	"confirmSecretBackupPhrase": {
-		"message": "请确认你的私密备份密语"
+		"message": "请确认你的账户助记词"
 	},
 	"confirmed": {
 		"message": "确认"
@@ -510,7 +510,7 @@
 		"message": "下载 Google Chrome 浏览器"
 	},
 	"downloadSecretBackup": {
-		"message": "下载私密备份密语，并将其安全保存在外部加密硬盘或存储介质上。"
+		"message": "下载账户助记词，并将其安全保存在外部加密硬盘或存储介质上。"
 	},
 	"downloadStateLogs": {
 		"message": "下载状态日志"
@@ -535,7 +535,7 @@
 		"message": "申请加密公钥"
 	},
 	"endOfFlowMessage1": {
-		"message": "你通过了测试—— 保管好你的种子词，这是你的责任!"
+		"message": "你通过了测试—— 保管好你的账户助记词，这是你的责任!"
 	},
 	"endOfFlowMessage10": {
 		"message": "全部完成"
@@ -547,19 +547,19 @@
 		"message": "在多处保存备份数据。"
 	},
 	"endOfFlowMessage4": {
-		"message": "绝不向任何分享该密语。"
+		"message": "不向任何任何人分享该账户助记词。"
 	},
 	"endOfFlowMessage5": {
-		"message": "谨防网络钓鱼！NewMask 绝不会主动要求你提供个人种子密语。"
+		"message": "谨防网络钓鱼！NewMask 绝不会主动要求你提供账户助记词。"
 	},
 	"endOfFlowMessage6": {
-		"message": "如果你需要再次备份个人种子密语，请通过设置 -> 安全选项完成该操作。"
+		"message": "如果你需要再次备份账户助记词，请通过设置 -> 安全选项完成该操作。"
 	},
 	"endOfFlowMessage7": {
 		"message": "如有任何问题或发现任何可疑的地方，请发邮件至 contact@newtonproject.org。"
 	},
 	"endOfFlowMessage8": {
-		"message": "NewMask 无法恢复你的种子密语。"
+		"message": "NewMask 无法恢复你的账户助记词。"
 	},
 	"endOfFlowMessage9": {
 		"message": "了解详情。"
@@ -778,19 +778,19 @@
 		"message": "导入账户"
 	},
 	"importAccountMsg": {
-		"message": "导入的账户将不会与最初创建的 NewMask 账户 seedphrase 相关联。了解更多有关导入账户的信息 。"
+		"message": "导入的账户将不会与最初创建的 NewMask 账户助记词相关联。了解更多有关导入账户的信息 。"
 	},
 	"importAccountSeedPhrase": {
-		"message": "使用种子密语导入账户"
+		"message": "使用账户助记词导入账户"
 	},
 	"importUsingSeed": {
-		"message": "使用帐号种子密语导入"
+		"message": "使用账户助记词导入"
 	},
 	"importWallet": {
 		"message": "导入钱包"
 	},
 	"importYourExisting": {
-		"message": "使用 12 个助记词导入你现有的钱包。"
+		"message": "使用 12 个单词的账户助记词导入你现有的钱包账户。"
 	},
 	"imported": {
 		"description": "status showing that an account has been fully loaded into the keyring",
@@ -833,7 +833,7 @@
 		"message": "无效 RPC URL"
 	},
 	"invalidSeedPhrase": {
-		"message": "无效种子密语"
+		"message": "无效的账户助记词"
 	},
 	"ipfsGateway": {
 		"message": "IPFS 网关"
@@ -903,7 +903,7 @@
 		"message": "备忘"
 	},
 	"memorizePhrase": {
-		"message": "记住该密语。"
+		"message": "记住该账户助记词。"
 	},
 	"message": {
 		"message": "消息"
@@ -1005,7 +1005,7 @@
 		"message": "这个名字还没有设置地址。"
 	},
 	"noAlreadyHaveSeed": {
-		"message": "不，我已经有一个种子密语了。"
+		"message": "不，我已经有一个账户助记词了。"
 	},
 	"noConversionRateAvailable": {
 		"message": "无可用转换率"
@@ -1144,10 +1144,10 @@
 		"message": "妥善保管你的密钥！"
 	},
 	"protectYourKeysMessage1": {
-		"message": "请注意个人种子密语安全。报告显示有多个网站企图伪造 NewMask。NewMask 绝不会要求你提供个人种子密语！"
+		"message": "请注意个人账户助记词的安全。报告显示有多个网站企图伪造 NewMask。NewMask 绝不会要求你提供个人账户助记词！"
 	},
 	"protectYourKeysMessage2": {
-		"message": "请妥善保管你的密语。如果您发现任何可疑的地方，或无法确认网络安全性，请发送电子邮件至 contact@newtonproject.org 进行咨询"
+		"message": "请妥善保管你的账户助记词。如果您发现任何可疑的地方，或无法确认网络安全性，请发送电子邮件至 contact@newtonproject.org 进行咨询"
 	},
 	"provide": {
 		"message": "提供"
@@ -1201,7 +1201,7 @@
 		"message": "删除账户"
 	},
 	"removeAccountDescription": {
-		"message": "该账户已从你的钱包中删除。请在继续后续操作前，确认你是否已拥有该导入账户的原始种子密语或个人密钥。你可以通过账户下拉菜单再次导入或创建账户。"
+		"message": "该账户已从你的钱包中删除。请在继续后续操作前，确认你是否已拥有该导入账户的原始账户助记词或账户密钥。你可以通过账户下拉菜单再次导入或创建账户。"
 	},
 	"requestsAwaitingAcknowledgement": {
 		"message": "待确认的请求"
@@ -1216,16 +1216,16 @@
 		"message": "重置账户"
 	},
 	"resetAccountDescription": {
-		"message": "重置账户后，将清除你的个人交易历史记录。"
+		"message": "重置账户将清除你的交易历史记录。这不会改变你账户中的余额，也不会要求您重新输入账户助记词。"
 	},
 	"restore": {
 		"message": "恢复"
 	},
 	"restoreAccountWithSeed": {
-		"message": "使用种子密语恢复个人账户"
+		"message": "使用账户助记词恢复个人账户"
 	},
 	"restoreFromSeed": {
-		"message": "从助记词还原"
+		"message": "恢复账户？"
 	},
 	"restoreWalletPreferences": {
 		"description": "",
@@ -1238,19 +1238,19 @@
 		"message": "此处的一个通证使用了与你关注的另一个通证的相同符号，这可能会让人感到困惑或欺骗。"
 	},
 	"revealSeedWords": {
-		"message": "显示助记词"
+		"message": "显示账户助记词"
 	},
 	"revealSeedWordsDescription": {
-		"message": "如果你更换浏览器或计算机，则需要使用此助记词访问你的帐户。请将它们保存在安全秘密的地方。"
+		"message": "如果你更换浏览器或计算机，则需要使用此账户助记词访问你的帐户。请将它们保存在安全秘密的地方。"
 	},
 	"revealSeedWordsTitle": {
-		"message": "助记词"
+		"message": "账户助记词"
 	},
 	"revealSeedWordsWarning": {
-		"message": "助记词可以用来窃取你的所有帐户."
+		"message": "该账户助记词可以用来窃取你的所有帐户."
 	},
 	"revealSeedWordsWarningTitle": {
-		"message": "重要：不要对任何人展示助记词！"
+		"message": "重要：不要对任何人展示此账户助记词！"
 	},
 	"rinkeby": {
 		"message": "Rinkeby 测试网络"
@@ -1286,31 +1286,31 @@
 		"message": "搜索通证"
 	},
 	"secretBackupPhrase": {
-		"message": "私密备份密语"
+		"message": "账户助记词"
 	},
 	"secretBackupPhraseDescription": {
-		"message": "你的个人私密备份密语可以帮助你轻松备份和恢复个人账户。"
+		"message": "你的账户助记词可以帮助你轻松备份和恢复个人账户。"
 	},
 	"secretBackupPhraseWarning": {
-		"message": "警告：切勿向他人透露你的备份密语。任何人一旦持有该密语，即可取走你的 NEW。"
+		"message": "警告：切勿向他人透露你的账户助记词。任何人一旦持有该账户助记词，即可取走你的 NEW。"
 	},
 	"secretPhrase": {
-		"message": "输入12位助记词以恢复账户保险库。"
+		"message": "输入 12 位单词的账户助记词恢复你的账户。"
 	},
 	"securityAndPrivacy": {
 		"message": "安全与隐私"
 	},
 	"securitySettingsDescription": {
-		"message": "隐私设置和钱包种子密语"
+		"message": "隐私设置和账户助记词"
 	},
 	"seedPhrasePlaceholder": {
 		"message": "用空格分隔每个单词"
 	},
 	"seedPhrasePlaceholderPaste": {
-		"message": "从剪贴板粘贴助记词"
+		"message": "从剪贴板粘贴账户助记词"
 	},
 	"seedPhraseReq": {
-		"message": "助记词为 12 个单词"
+		"message": "账户助记词由 12 个单词组成"
 	},
 	"selectAHigherGasFee": {
 		"message": "选择更高的交易费，提高交易处理速度。*"
@@ -1331,7 +1331,7 @@
 		"message": "选择货币"
 	},
 	"selectEachPhrase": {
-		"message": "请选择每个短语，以确保其正确性。"
+		"message": "请选择每个单词，以确保其正确性。"
 	},
 	"selectHdPath": {
 		"message": "选择 HD 路径"
@@ -1407,7 +1407,7 @@
 		"message": "显示私钥"
 	},
 	"showSeedPhrase": {
-		"message": "显示助记词"
+		"message": "显示账户助记词"
 	},
 	"showTransactionTimeDescription": {
 		"message": "选择该选项，在 NewChain 主网络上的活动选项卡中显示待处理的估计时间。注意：估计时间是基于网络条件的近似值。"
@@ -1498,7 +1498,7 @@
 		"message": "使用你的硬件钱包，操作与 NewChain 账户制作相同。登录 dApps，发送 NEW 。"
 	},
 	"storePhrase": {
-		"message": "通过如 1Password 等密码管理工具保存该密语。"
+		"message": "通过如 1Password 等密码管理工具保存该账户助记词。"
 	},
 	"submit": {
 		"message": "提交"
@@ -1558,7 +1558,7 @@
 		"message": "测试水管"
 	},
 	"thisWillCreate": {
-		"message": "该操作将为你创建新钱包和种子密语"
+		"message": "将为你创建新的钱包账户和账户助记词"
 	},
 	"tips": {
 		"message": "小贴士"
@@ -1726,7 +1726,7 @@
 		"message": "访问我们的网站"
 	},
 	"walletSeed": {
-		"message": "钱包助记词"
+		"message": "账户助记词"
 	},
 	"welcome": {
 		"message": "欢迎使用 NewMask 测试版（正式版中移除测试版文字）"
@@ -1738,7 +1738,7 @@
 		"message": "这是什么？"
 	},
 	"writePhrase": {
-		"message": "请将该密语记录在纸上，并保存在安全的地方。如果希望提升信息安全性，请将信息记录在多张纸上，并分别保存在 2 - 3 个不同的地方。"
+		"message": "请将该账户助记词记录在纸上，并保存在安全的地方。如果希望提升信息安全性，请将信息记录在多张纸上，并分别保存在 2 - 3 个不同的地方。"
 	},
 	"xOfY": {
 		"description": "",
@@ -1754,7 +1754,7 @@
 		"message": "正在签名"
 	},
 	"yourPrivateSeedPhrase": {
-		"message": "你的私有助记词"
+		"message": "你的账户助记词"
 	},
 	"yourSigRequested": {
 		"message": "正在请求你的签名"
