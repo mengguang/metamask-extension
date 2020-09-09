@@ -1262,7 +1262,7 @@
 		"message": "Ropsten 测试网络"
 	},
 	"rpcUrl": {
-		"message": "新增 RPC URL"
+		"message": "网络 RPC URL"
 	},
 	"save": {
 		"message": "保存"

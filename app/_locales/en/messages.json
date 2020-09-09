@@ -1262,7 +1262,7 @@
 		"message": "Ropsten Test Network"
 	},
 	"rpcUrl": {
-		"message": "New RPC URL"
+		"message": "Network RPC URL"
 	},
 	"save": {
 		"message": "Save"
