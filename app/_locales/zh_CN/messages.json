@@ -1176,6 +1176,9 @@
 	"recipientAddressPlaceholder": {
 		"message": "查找、NEW 地址"
 	},
+	"recoverWalletSeed": {
+		"message": "账户助记词"
+	},
 	"reject": {
 		"message": "拒绝"
 	},
