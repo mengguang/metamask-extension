@@ -44,7 +44,7 @@
 		"message": "活动日志"
 	},
 	"addAcquiredTokens": {
-		"message": "在NewMask上添加已用的通证"
+		"message": "在 NewMask 上添加已用的通证"
 	},
 	"addAlias": {
 		"message": "添加别名"
@@ -77,7 +77,7 @@
 		"message": "高级选项"
 	},
 	"advancedSettingsDescription": {
-		"message": "访问开发者功能，下载状态日志，重置账户，安排测试网络和自定义 RPC 。"
+		"message": "访问开发者功能，下载状态日志，重置账户，设置测试网和自定义 RPC。"
 	},
 	"alertDisableTooltip": {
 		"message": "这可以在“设置 > 提醒”中进行更改"
@@ -139,13 +139,13 @@
 		"message": "资产"
 	},
 	"attemptToCancel": {
-		"message": "想要取消吗？"
+		"message": "尝试取消？"
 	},
 	"attemptToCancelDescription": {
 		"message": "确认提交该操作无法保证能够成功取消你的原始交易。如果取消成功，您将被收取上述交易费用。"
 	},
 	"attemptingConnect": {
-		"message": "正在尝试连接区块链。"
+		"message": "正在尝试连接到区块链。"
 	},
 	"attributions": {
 		"message": "来源"
@@ -269,7 +269,7 @@
 		"message": "连接账户或创建新账户"
 	},
 	"connectHardwareWallet": {
-		"message": "链接硬件钱包"
+		"message": "连接硬件钱包"
 	},
 	"connectManually": {
 		"message": "手动连接到当前站点"
@@ -343,7 +343,7 @@
 		"message": "正在连接到 Ropsten 测试网络"
 	},
 	"contactUs": {
-		"message": "联系我们!"
+		"message": "联系我们"
 	},
 	"contacts": {
 		"message": "联系人"
@@ -1122,7 +1122,7 @@
 		"message": "主要价格单位"
 	},
 	"primaryCurrencySettingDescription": {
-		"message": "选择“本地”以优先显示链中的本币值（如 NEW）。选择“货币”以优先显示所选货币的价值。"
+		"message": "选择“NEW”则优先以牛顿（NEW）作为价值显示单位。选择“货币”则优先以所选货币作为价值显示单位。"
 	},
 	"privacyMsg": {
 		"message": "隐私政策"

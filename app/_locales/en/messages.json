@@ -1122,7 +1122,7 @@
 		"message": "Primary Currency"
 	},
 	"primaryCurrencySettingDescription": {
-		"message": "Select native to prioritize displaying values in the native currency of the chain (e.g. NEW). Select Fiat to prioritize displaying values in your selected fiat currency."
+		"message": "Select \"NEW\" to prioritize displaying values with Newton. Select Fiat to prioritize displaying values in your selected fiat currency."
 	},
 	"privacyMsg": {
 		"message": "Privacy Policy"
