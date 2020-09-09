@@ -44,7 +44,7 @@
 		"message": "活动日志"
 	},
 	"addAcquiredTokens": {
-		"message": "在 NewMask 上添加已用的通证"
+		"message": "在 NewMask 上添加获得的通证"
 	},
 	"addAlias": {
 		"message": "添加别名"
