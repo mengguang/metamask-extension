@@ -242,7 +242,7 @@
 		"message": "你需要在谷歌浏览器（Google Chrome）上使用 NewMask 才能连接到你的硬件钱包。"
 	},
 	"clickToRevealSeed": {
-		"message": "点击此处显示密语"
+		"message": "点击此处显示账户助记词"
 	},
 	"close": {
 		"message": "关闭"
@@ -319,7 +319,7 @@
 		"message": "$1 还没连接任何网站。"
 	},
 	"connecting": {
-		"message": "连接中……"
+		"message": "正在连接……"
 	},
 	"connectingTo": {
 		"message": "正在连接 $1"
