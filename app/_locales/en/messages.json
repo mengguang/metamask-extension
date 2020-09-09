@@ -1761,5 +1761,8 @@
 	},
 	"zeroGasPriceOnSpeedUpError": {
 		"message": "Zero gas price on speed up"
+	},
+	"recoverWalletSeed": {
+		"message": "Wallet Seed"
 	}
 }

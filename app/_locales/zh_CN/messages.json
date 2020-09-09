@@ -1222,7 +1222,7 @@
 		"message": "恢复"
 	},
 	"restoreAccountWithSeed": {
-		"message": "使用账户助记词恢复个人账户"
+		"message": "使用账户助记词恢复你的账户"
 	},
 	"restoreFromSeed": {
 		"message": "恢复账户？"
