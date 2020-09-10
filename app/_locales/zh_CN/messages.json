@@ -427,7 +427,7 @@
 		"message": "精度小数"
 	},
 	"decimalsMustZerotoTen": {
-		"message": "小数必须至少为0，且不能超过36。"
+		"message": "小数位必须至少为0，且不能超过36。"
 	},
 	"decrypt": {
 		"message": "解密"
@@ -437,7 +437,7 @@
 	},
 	"decryptInlineError": {
 		"description": "",
-		"message": "此消息无法解密，错误：$1"
+		"message": "无法解密此消息，错误：$1"
 	},
 	"decryptMessageNotice": {
 		"description": "",
@@ -660,7 +660,7 @@
 		"message": "文件导入失败？ 点击这里！"
 	},
 	"forbiddenIpfsGateway": {
-		"message": "禁止使用 IPFS 网关。请指定一个 CID 网关"
+		"message": "禁用的 IPFS 网关：请指定一个 CID 网关"
 	},
 	"forgetDevice": {
 		"message": "忘记此设备"
@@ -685,7 +685,7 @@
 		"message": "交易费限制是指你愿意花费的最大交易费数量。"
 	},
 	"gasLimitTooLow": {
-		"message": "交易费至少要 21000"
+		"message": "交易费限制至少要 21000"
 	},
 	"gasPrice": {
 		"message": "交易费"
@@ -694,7 +694,7 @@
 		"message": "交易费价格极低"
 	},
 	"gasPriceInfoModalContent": {
-		"message": "交易费价格将详细列明每个交易费单位的NEW金额。"
+		"message": "交易费价格规定了你愿意为每单位交易费支付的 NEW 数量。"
 	},
 	"gasPriceNoDenom": {
 		"message": "交易费价格"
@@ -1094,7 +1094,7 @@
 	},
 	"pastePrivateKey": {
 		"description": "For importing an account from a private key",
-		"message": "在这里粘贴你的私钥字符串。"
+		"message": "请粘贴你的私钥:"
 	},
 	"pending": {
 		"message": "待处理"
@@ -1186,7 +1186,7 @@
 		"message": "拒绝全部"
 	},
 	"rejectTxsDescription": {
-		"message": "你讲批量拒绝 $1 笔交易。"
+		"message": "你将批量拒绝 $1 笔交易。"
 	},
 	"rejectTxsN": {
 		"message": "拒绝 $1 笔交易"
@@ -1253,7 +1253,7 @@
 		"message": "该账户助记词可以用来窃取你的所有帐户."
 	},
 	"revealSeedWordsWarningTitle": {
-		"message": "重要：不要对任何人展示此账户助记词！"
+		"message": "不要对任何人展示此账户助记词！"
 	},
 	"rinkeby": {
 		"message": "Rinkeby 测试网络"
@@ -1298,7 +1298,7 @@
 		"message": "警告：切勿向他人透露你的账户助记词。任何人一旦持有该账户助记词，即可取走你的 NEW。"
 	},
 	"secretPhrase": {
-		"message": "输入 12 位单词的账户助记词恢复你的账户。"
+		"message": "输入 12 个单词组成的账户助记词恢复你的账户。"
 	},
 	"securityAndPrivacy": {
 		"message": "安全与隐私"
@@ -1355,7 +1355,7 @@
 		"message": "发送"
 	},
 	"sendAmount": {
-		"message": "发送金额"
+		"message": "发送数额"
 	},
 	"sendETH": {
 		"message": "发送 NEW"
@@ -1401,7 +1401,7 @@
 		"message": "显示收到的交易"
 	},
 	"showIncomingTransactionsDescription": {
-		"message": "选择该选项可使用 NewExplorer 在交易列表中显示传入的交易。"
+		"message": "选择该选项可使用 NewExplorer 在交易列表中显示收到的交易。"
 	},
 	"showPermissions": {
 		"message": "显示权限"
@@ -1440,7 +1440,7 @@
 		"message": "更慢"
 	},
 	"somethingWentWrong": {
-		"message": "糟糕！出了点问题。"
+		"message": "糟糕！出问题了。"
 	},
 	"speedUp": {
 		"message": "加速"
@@ -1580,7 +1580,7 @@
 		"message": "通证"
 	},
 	"tokenAlreadyAdded": {
-		"message": "通证已经添加。"
+		"message": "通证已添加。"
 	},
 	"tokenContractAddress": {
 		"message": "通证合约地址"
